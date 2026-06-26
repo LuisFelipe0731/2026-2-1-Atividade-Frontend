@@ -10,7 +10,7 @@ export default function Home() {
         </h1>
         
         <Link
-          href="/login"
+          href="/auth"
           className="mt-8 inline-flex h-12 items-center justify-center rounded-full bg-zinc-950 px-6 text-sm font-medium text-white transition-colors hover:bg-zinc-800 dark:bg-zinc-50 dark:text-zinc-950 dark:hover:bg-zinc-200"
         >
           Ir para o login
